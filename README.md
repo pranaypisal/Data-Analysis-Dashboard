@@ -5,7 +5,7 @@ The My Store wants to create an annual sales report for 2025. So that, the owner
 ## Dataset used
 - <a href="https://github.com/pranaypisal/Data-Analysis-Dashboard/blob/main/My%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
